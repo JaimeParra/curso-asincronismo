@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node scr/callback/challenge.js"
   },
   "keywords": [
     "javascript"
   ],
   "author": "Jaime Parra Acevedo j.parra@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }

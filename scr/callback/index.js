@@ -17,7 +17,7 @@ console.log('Hola Javascript');
 
 function gretting(name)
 {
-    console.log(`Hola ${name}
+    console.log(`Hola ${name} 
 que chimba`);
 };
 
